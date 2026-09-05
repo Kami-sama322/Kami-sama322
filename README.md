@@ -33,6 +33,8 @@ I rewrite legacy services, mentor on the company program, and publish on Habr.
 
 On the product I cover more than one role at a time: DE, ML, analytics, architecture.
 
+Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid
+
 ---
 
 ## Stack
@@ -134,7 +136,5 @@ On the product I cover more than one role at a time: DE, ML, analytics, architec
 <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,fastapi,redis,kafka,linux,git,prometheus,grafana&perline=11" alt="Core tools" />
 
 <br /><br />
-
-<sub>Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid</sub>
 
 </div>
