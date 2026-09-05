@@ -33,6 +33,8 @@ Senior Data Engineer и неформальный тимлид.
 
 На продукте закрываю несколько ролей сразу: DE, ML, аналитика, архитектура.
 
+Открыт для предложений Lead / Senior Data Engineer · ML Engineer · удаленно или гибрид
+
 ---
 
 ## Стек
@@ -135,7 +137,5 @@ Senior Data Engineer и неформальный тимлид.
 <img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,fastapi,redis,kafka,linux,git,prometheus,grafana&perline=11" alt="Core tools" />
 
 <br /><br />
-
-<sub>Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid</sub>
 
 </div>
