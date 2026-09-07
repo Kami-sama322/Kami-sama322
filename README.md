@@ -80,11 +80,21 @@ Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid
 
 | What | Outcome |
 | --- | --- |
-| Airflow DAG factory | ~150 DAGs, messenger alerts, faster standup of similar reports |
-| LLM platform | SkillHub + Langfuse + LiteLLM: tracing, prompt versioning, monitoring |
-| Text2SQL | LangGraph agent on the internal DWH — data without writing SQL |
-| Legacy → async | Reporting rewrite under SOLID / OOP / PEP8, secrets out of the repo |
-| BI → DWH | After Tableau left RU, restored analytics on DataLens, then ClickHouse |
+| **Airflow DAG factory** | ~150 DAGs, messenger alerts, zero manual overhead, faster data delivery |
+| **LLM platform** | SkillHub + Langfuse + LiteLLM + vLLM: tracing, prompt versioning, Grafana/Prometheus monitoring |
+| **Text2SQL** | LangGraph agent on the internal DWH — data without writing SQL, reduced team backlog |
+| **Meeting transcriber** | Integrated GigaAM-v3 into OpenWebUI for secure internal automated meeting minutes |
+| **LLM support bots** | Migrated legacy bots to LLM agents in the MAX system, improved accuracy, lowered workload |
+| **Legacy → async** | Core reporting rewrite under SOLID / OOP / PEP8, secrets out of repo, streamlined onboarding |
+| **Architecture & Stack** | Designed internal microservices and product DWH; led development and code reviews |
+| **Data Pipelines** | Built complex atomic ETL/ELT (Postgres, ClickHouse, Mongo, S3) with strict SLA and DQ checks |
+| **Engineering culture** | Mentored engineers in the corporate program, fostering team professional growth |
+| **Analytics Quality** | Maintained a stable 4.9/5 internal NPS score across quarterly AppRaise user surveys |
+| **Emergency BI Migration** | After Tableau left RU, restored analytics on DataLens with zero downtime, scaled to ClickHouse |
+| **End-to-end Analytics** | Integrated API & non-API marketing sources (VK, Telega.in), faster channel ROI reactions |
+| **Ad Campaign Automation** | Automated management and dashboards for hundreds of ads, ensuring 24/7 hands-free optimization |
+| **Predictive Modeling** | Forecasted business and partner economics based on traffic shifts, replacing sales guesswork |
+| **Slack Metric Bot** | Replaced weekly email reports, eliminating manual data collection before daily standups |
 
 ---
 
