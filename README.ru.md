@@ -97,6 +97,7 @@ Senior Data Engineer и неформальный тимлид.
 | [superset-plugin-filter-checkbox](https://github.com/Kami-sama322/superset-plugin-filter-checkbox) | Native Filter: чекбоксы для multi/single select |
 | [superset-plugin-chart-logo-buttons](https://github.com/Kami-sama322/superset-plugin-chart-logo-buttons) | Chart: кнопки с логотипами + cross-filter |
 | [superset-plugin-chart-country-scatterplot-map](https://github.com/Kami-sama322/superset-plugin-chart-country-scatterplot-map) | Chart: Country Map + scatter bubbles |
+| [superset-plugin-chart-funnel](https://github.com/Kami-sama322/superset-plugin-chart-funnel) | Chart: Воронка по аналогии с PowerBI с широкой кастомизацией |
 
 ---
 
