@@ -107,6 +107,7 @@ Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid
 | [superset-plugin-filter-checkbox](https://github.com/Kami-sama322/superset-plugin-filter-checkbox) | Native Filter: checkbox list for multi/single select |
 | [superset-plugin-chart-logo-buttons](https://github.com/Kami-sama322/superset-plugin-chart-logo-buttons) | Chart: logo buttons with dashboard cross-filters |
 | [superset-plugin-chart-country-scatterplot-map](https://github.com/Kami-sama322/superset-plugin-chart-country-scatterplot-map) | Chart: Country Map choropleth + scatter bubbles |
+| [superset-plugin-chart-funnel](https://github.com/Kami-sama322/superset-plugin-chart-funnel) | Chart: Funnel chart like a PowerBI with wide customizations |
 
 ---
 
