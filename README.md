@@ -108,6 +108,8 @@ Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid
 | [superset-plugin-chart-logo-buttons](https://github.com/Kami-sama322/superset-plugin-chart-logo-buttons) | Chart: logo buttons with dashboard cross-filters |
 | [superset-plugin-chart-country-scatterplot-map](https://github.com/Kami-sama322/superset-plugin-chart-country-scatterplot-map) | Chart: Country Map choropleth + scatter bubbles |
 | [superset-plugin-chart-funnel](https://github.com/Kami-sama322/superset-plugin-chart-funnel) | Chart: Funnel chart like a PowerBI with wide customizations |
+| [superset-plugin-filter-period-ranges](https://github.com/Kami-sama322/superset-plugin-filter-period-ranges) | Native Filter: 1–5 equal-length date ranges with OR filtering |
+| [superset-plugin-chart-period-comparison](https://github.com/Kami-sama322/superset-plugin-chart-period-comparison) | Chart: one metric across 1–5 periods with on-chart date pickers |
 
 ---
 
