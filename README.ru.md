@@ -118,7 +118,6 @@ Senior Data Engineer, около пяти лет: хранилища, пайпл
 ```text
 2024 — now   MTS Digital (MTS Web Services)     Leading engineer-analyst
 2021 — 2023  Pravoved.RU                        BI Analyst
-2016 — 2021  Armed Forces of the RF             Head of operations duty service
 ```
 
 ~5+ лет в данных · Python · SQL · ETL/ELT · DWH · LLM-агенты
