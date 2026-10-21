@@ -10,9 +10,9 @@
 
 # Alexander Tsay
 
-**Lead / Senior Data Engineer · ML Engineer**
+**Lead / Senior Data Engineer**
 
-Saint Petersburg · remote / hybrid
+Serbia · remote / hybrid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alextsay92/)
 [![Habr](https://img.shields.io/badge/Habr-77A8CC?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/Kami-sama322/articles/)
@@ -25,15 +25,13 @@ Saint Petersburg · remote / hybrid
 
 ## About
 
-Senior Data Engineer and informal team lead.
-I design internal microservices and the product warehouse, write the code, and review what the team ships.
+Senior Data Engineer with around five years building data warehouses, pipelines, and backend services.
 
-I built an Airflow DAG factory (~150 DAGs) and stood up SkillHub, Langfuse, and LiteLLM for our agents.
-I rewrite legacy services, mentor on the company program, and publish on Habr.
+At MTS Digital I develop dbt models, maintain an Airflow DAG factory, and build data and LLM-powered services. I review code, plan work for junior engineers, and mentor on the company program.
 
-On the product I cover more than one role at a time: DE, ML, analytics, architecture.
+I use Cursor daily with project-specific rules, reusable agent skills, hooks, and MCP integrations. I review generated changes and check them with tests.
 
-Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid
+Open to Lead/Senior Data Engineer roles, remote.
 
 ---
 
@@ -80,21 +78,16 @@ Open to Lead / Senior Data Engineer · ML Engineer · remote or hybrid
 
 | What | Outcome |
 | --- | --- |
-| **Airflow DAG factory** | ~150 DAGs, messenger alerts, zero manual overhead, faster data delivery |
-| **LLM platform** | SkillHub + Langfuse + LiteLLM + vLLM: tracing, prompt versioning, Grafana/Prometheus monitoring |
-| **Text2SQL** | LangGraph agent on the internal DWH — data without writing SQL, reduced team backlog |
-| **Meeting transcriber** | Integrated GigaAM-v3 into OpenWebUI for secure internal automated meeting minutes |
-| **LLM support bots** | Migrated legacy bots to LLM agents in the MAX system, improved accuracy, lowered workload |
-| **Legacy → async** | Core reporting rewrite under SOLID / OOP / PEP8, secrets out of repo, streamlined onboarding |
-| **Architecture & Stack** | Designed internal microservices and product DWH; led development and code reviews |
-| **Data Pipelines** | Built complex atomic ETL/ELT (Postgres, ClickHouse, Mongo, S3) with strict SLA and DQ checks |
-| **Engineering culture** | Mentored engineers in the corporate program, fostering team professional growth |
-| **Analytics Quality** | Maintained a stable 4.9/5 internal NPS score across quarterly AppRaise user surveys |
-| **Emergency BI Migration** | After Tableau left RU, restored analytics on DataLens with zero downtime, scaled to ClickHouse |
-| **End-to-end Analytics** | Integrated API & non-API marketing sources (VK, Telega.in), faster channel ROI reactions |
-| **Ad Campaign Automation** | Automated management and dashboards for hundreds of ads, ensuring 24/7 hands-free optimization |
-| **Predictive Modeling** | Forecasted business and partner economics based on traffic shifts, replacing sales guesswork |
-| **Slack Metric Bot** | Replaced weekly email reports, eliminating manual data collection before daily standups |
+| **dbt media catalog** | Full rebuild of roughly 2 hours down to a 15-minute incremental run. 40 models, 8 sources. Normalized layer plus wide marts for a leisure bot. |
+| **Airflow factory** | 150 DAGs. A similar new report went from a day as its own DAG to an hour. Each run posts to the company messenger. dbt tests for unique and not_null keys, plus a 24-hour freshness check. |
+| **Clickstream** | 50 million events a day, peaks near 3,000 per second. Kafka into ClickHouse through the Kafka engine and materialized views. Marts for DAU, MAU, retention, funnels, and screen usage. |
+| **Support-bot retrieval** | NER pulls IDs, product names, and error text. An agent chooses the search. Hybrid embeddings and BM25 in Qdrant. The model answers from the ranked chunks. |
+| **Qwen on vLLM** | Served in our own environment. Langfuse records token counts from the API. A rate card estimates cost. Prometheus and Grafana show KV-cache use and queue depth. Batching under PagedAttention was set from those graphs. |
+| **Text2SQL** | LangGraph agent for 15 people who do not write SQL. Repeat questions to analysts dropped from several times a day to several times a week. On 30 questions, 80% of first answers were acceptable. |
+| **SkillHub and LiteLLM** | Versioned prompts and skills for internal agents. Request traces in Langfuse. |
+| **Reporting APIs** | Rewrote reporting services on async FastAPI. No direct push to dev or master. Credentials in Vault. |
+| **GigaAM-v3** | Transcriber in OpenWebUI through an OpenAI-compatible LiteLLM endpoint. |
+| **Pravoved analytics** | One glossary with sales, marketing, and finance. After Tableau left, main reports on Yandex DataLens in a week, then the warehouse on ClickHouse. Quarterly AppRaise score 4.9/5. |
 
 ---
 
