@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🇷🇺 Русский | [🇬🇧 English](README.md)
+### 🇷🇺 Русский | [en English](README.md)
 
 # Александр Цай
 
