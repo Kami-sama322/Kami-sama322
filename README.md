@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### [🇷🇺 Русский](README.ru.md) | 🇬🇧 English
+### [🇷🇺 Русский](README.ru.md) | en English
 
 # Alexander Tsay
 
