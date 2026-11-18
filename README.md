@@ -103,6 +103,7 @@ Open to Lead/Senior Data Engineer roles, remote.
 | [superset-plugin-chart-funnel](https://github.com/Kami-sama322/superset-plugin-chart-funnel) | Chart: Funnel chart like a PowerBI with wide customizations |
 | [superset-plugin-filter-period-ranges](https://github.com/Kami-sama322/superset-plugin-filter-period-ranges) | Native Filter: 1–5 equal-length date ranges with OR filtering |
 | [superset-plugin-chart-period-comparison](https://github.com/Kami-sama322/superset-plugin-chart-period-comparison) | Chart: one metric across 1–5 periods with on-chart date pickers |
+| [custom-themes](https://github.com/Kami-sama322/custom-themes) | My signature custom tool themes |
 
 ---
 
