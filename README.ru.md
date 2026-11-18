@@ -103,6 +103,7 @@ Senior Data Engineer, около пяти лет: хранилища, пайпл
 | [superset-plugin-chart-funnel](https://github.com/Kami-sama322/superset-plugin-chart-funnel) | Chart: Воронка по аналогии с PowerBI с широкой кастомизацией |
 | [superset-plugin-filter-period-ranges](https://github.com/Kami-sama322/superset-plugin-filter-period-ranges) | Native Filter: 1–5 диапазонов дат одинаковой длины с OR-фильтрацией |
 | [superset-plugin-chart-period-comparison](https://github.com/Kami-sama322/superset-plugin-chart-period-comparison) | Chart: сравнение одной метрики за 1–5 периодов с календарями на чарте |
+| [custom-themes](https://github.com/Kami-sama322/custom-themes) | Мои фирменные кастомные темы для инструментов |
 
 ---
 
